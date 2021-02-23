@@ -5,4 +5,4 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 ## Content:
 
-- **Churn Analysis**: A predictive analysis of customers who may leave the company in the future, using statistical analysis and machine learning algorithms, create a forecast and take action in anticipation of this event and thus preventing this exit.
+- **[Churn Analysis](https://github.com/jonascocco/Data-Science-portifoleo/tree/main/Churn_Analysis)**: A predictive analysis of customers who may leave the company in the future, using statistical analysis and machine learning algorithms, create a forecast and take action in anticipation of this event and thus preventing this exit.
