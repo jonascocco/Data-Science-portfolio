@@ -1,4 +1,4 @@
-# Data-Science-portfoleo
+# Data-Science-portfolio
 Data Science portfolio developed by me, for academic purposes and self learning, presented in the form of iPython Notebook.
 
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
